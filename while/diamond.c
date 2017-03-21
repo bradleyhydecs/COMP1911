@@ -34,8 +34,7 @@ int main (int argc, char* argv[])
             }
             // else we are up to the bottom half
             else
-            {
-                // *                                 *       
+            {     
                 //  *                               *        
                 //   *                             *      
                 //    *                           * 
