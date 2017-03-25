@@ -9,9 +9,10 @@ int main (int argc, char* argv[]) {
     printf("element at index 1 = %d \n", numbers[1]);
 
     printf("element at index 9 = %d \n", numbers[9]);
+
+    // uh oh! numbers[10] doesn't exist...
     printf("element at index 10 = %d \n", numbers[10]);
 
-    
     return EXIT_SUCCESS;
 }
 

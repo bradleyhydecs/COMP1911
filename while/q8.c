@@ -2,10 +2,8 @@
 
 int main(void) 
 {
-    int number;
-    int row, column;
+    int number, row, column;
 
-    // Obtain input
     printf("Enter number: ");
     scanf("%d",&number);
 

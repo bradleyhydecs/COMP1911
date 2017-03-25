@@ -1,21 +1,23 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-int main (int argc, char* argv[]) 
+int main() 
 {
-    printf("Enter some integers: \n");
-    
-    int number;
-    int returnCode = scanf("%d",&number);
-    int count = 0;
-    
-    while (returnCode == 1) 
+    int num;
+    int count = 0; 
+
+    printf("Please enter num: ");
+    scanf("%d", &num); 
+
+    // while number is positive (or zero)
+    while (num >= 0)
     {
         count = count + 1;
-        returnCode = scanf("%d",&number);
-    } 
-    
-    printf("You entered %d integers\n", count);
-    
-    return EXIT_SUCCESS;
+        scanf("%d", &num);  
+    }
+
+    printf("Count = %d\n", count);
+
+	return EXIT_SUCCESS;
 }
+

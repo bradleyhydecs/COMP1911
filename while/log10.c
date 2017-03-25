@@ -5,6 +5,7 @@ int main (int argc, char* argv[])
 {
     int startNum;
     int count = 0;
+
     printf("Enter two integers: \n");
     scanf("%d",&startNum);
     
