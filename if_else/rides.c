@@ -1,4 +1,3 @@
-
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -27,6 +26,6 @@ int main()
         printf("Red Rides\n");
     }
 
-	return EXIT_SUCCESS;
+    return EXIT_SUCCESS;
 }
 

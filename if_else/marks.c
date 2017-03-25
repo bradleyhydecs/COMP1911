@@ -3,12 +3,19 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// our cases are:
+//  - greater than 100
+//  - less than 0
+//  - greater than or equal to 50 
+//  - less than 50
+
 int main() 
 {
     int mark; 
     printf("Please enter your mark: ");
     scanf("%d", &mark);   
     
+    // be very careful how we order these!
     if (mark < 0 || mark > 100)
     {
         printf("ERROR\n") ;
@@ -26,22 +33,12 @@ int main()
         printf("FAIL\n") ;
     }
     
-        
-    
-
-
-
-    
-    
-	return EXIT_SUCCESS;
+    return EXIT_SUCCESS;
 }
 
 
 
 
-//greater than 100
-//less than 0
-//greater than or equal to 50 
-//less than 50
+
 
 

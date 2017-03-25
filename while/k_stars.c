@@ -21,7 +21,7 @@ int main()
         k = k - 1;                  // and minus one from k
     }   
     
-	return EXIT_SUCCESS;
+    return EXIT_SUCCESS;
 }
 
 

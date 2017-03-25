@@ -18,6 +18,6 @@ int main()
 
     printf("Count = %d\n", count);
 
-	return EXIT_SUCCESS;
+    return EXIT_SUCCESS;
 }
 

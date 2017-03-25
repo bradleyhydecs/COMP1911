@@ -18,7 +18,7 @@ int main()
         printf("FALSE\n");
     }   
 
-	return EXIT_SUCCESS;
+    return EXIT_SUCCESS;
 }
 
 
