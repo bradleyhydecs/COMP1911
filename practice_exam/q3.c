@@ -15,19 +15,10 @@ void doStuffToThisLine(char targetChar, char stringToPrint[MAX_STRING_LEN], char
     while (line[currIndex] != '\0') {
         //printf("%c", line[currIndex]);        // remember to debug/make sure it works as you go!
         
-        char thisChar = line[currIndex];
-        
-        // convert to lower case if required (the manual way)
-        if (thisChar >= 'A' && thisChar <= 'Z') {
-            thisChar = thisChar + 32;
-        }
-        
-        // OR... this requires #include <ctype.h>
-        //if (isupper(thisChar) {
-        //    thisChar = tolower(thisChar);
-        //}
-        
-        if (thisChar == targetChar) {
+        // this char of the line could be upper or lower case,
+        // so we need to account for both. 
+        // eg if target char is 'a', we must print our strings when we hit 'a' or 'A'.
+        if (tolower(line[currIndex]) == targetChar || toupper(line[currIndex]) == targetChar ) {
             printf("%s%c%s", stringToPrint, line[currIndex], stringToPrint);
         } else {
             printf("%c", line[currIndex]);
