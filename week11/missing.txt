@@ -1,0 +1,565 @@
+17s1 COMP1911 Computing 1A Sun May 21 21:04:57 2017 Page 1
+---------------------------------------------------------------------
+StudentID tut_lab
+ Name lab01
+---------------------------------------------------------------------
+There are no lab01 marks entered for fri09-strings
+3467675 Ahmed, Nayim fri09-brass ?
+5148101 Zhang, Huiyi mon15-brass ?
+5155164 Xu, Yanhao thu09-brass ?
+3484338 Lu, Isabella thu09-strings ?L
+5016191 Huang, Junda thu17-brass ?
+5165606 Scouller, Simone Crystal Sky thu17-brass ?L
+5014850 Cho, Junhee tue09-strings ?
+17s1 COMP1911 Computing 1A Sun May 21 21:04:28 2017 Page 1
+---------------------------------------------------------------------
+StudentID tut_lab
+ Name lab02
+---------------------------------------------------------------------
+3467675 Ahmed, Nayim fri09-brass ?
+5161166 Glitsos, Christopher James fri09-strings ?L
+5058964 Guo, Xucheng fri09-strings ?
+5163150 Ijaz, Muhammad Sohaib fri09-strings ?L
+5166084 Li, Jessica Phe fri09-strings ?L
+5164910 Ashok Kumar, Raghav fri12-strings ?
+5160166 Choi, Urim fri12-strings ?
+5110382 Feng, Linlin Lynn fri12-strings ?
+5161360 Lu, James fri12-strings ?
+5136237 Mok, Ho Kwan thu09-brass ?
+5163689 Konstantinidis, Dimitri Jim thu09-strings ?L
+3484338 Lu, Isabella thu09-strings ?L
+5123692 Li, Guangye thu17-brass ?
+5165606 Scouller, Simone Crystal Sky thu17-brass ?
+7207123 Cawte, Henry James tue09-strings ?
+5014850 Cho, Junhee tue09-strings ?
+5014551 Chen, Shandeng tue17-brass ?
+5123679 Li, Yuze wed15-strings ?L
+17s1 COMP1911 Computing 1A Sun May 21 21:08:18 2017 Page 1
+---------------------------------------------------------------------
+StudentID tut_lab
+ Name lab03
+---------------------------------------------------------------------
+3467675 Ahmed, Nayim fri09-brass ?
+5098202 Bai, Xueshi fri09-strings ?
+5076725 Chen, Andrew fri09-strings ?L
+5092329 Ching, Jan Yu fri09-strings ?
+5162111 Dang, Daniel Ngoc fri09-strings ?
+5058964 Guo, Xucheng fri09-strings ?
+5162870 Ienco, Dylan Robert fri09-strings ?L
+5163150 Ijaz, Muhammad Sohaib fri09-strings ?
+5161434 Jenkins, Cameron Blake fri09-strings ?
+5163332 Jumeau, Brendan Gerard fri09-strings ? 
+5166098 Ko, Wilson Chi Kin fri09-strings ?
+3466382 Lee, Alexander Tuk-Sun fri09-strings ?
+5166084 Li, Jessica Phe fri09-strings ?L
+5141490 Mak, Yi Pui fri09-strings ?
+5165373 Mallison, Christopher John fri09-strings ?
+5164557 Patel, Aashini Divyang fri09-strings ?
+5160388 Rockoff, Jordan Taylor fri09-strings ?
+5117431 Rocks, Dominic Charles Ignatius fri09-strings ?L
+5167973 Singh, Mansher fri09-strings ?
+5164569 Synge, Steffany De Waal fri09-strings ?
+3479592 Tan, Bee Tat Nicholas fri09-strings ?
+3474179 Tohid, Muhammad Zahran Bin fri09-strings ?
+5161308 Zhao, Owen fri09-strings ?
+5091166 Urbina, Enrico fri12-strings ?
+5057712 Kim, Chanhwi thu09-brass ?
+5136237 Mok, Ho Kwan thu09-brass ?
+3420973 Le, Anthony Minh Tuan thu09-strings ?L
+5123681 Li, Xiaofeng thu17-brass ?
+7207123 Cawte, Henry James tue09-strings ?
+5014850 Cho, Junhee tue09-strings ?
+5079346 Chan, Jonathan Will Sun-Ee tue13-brass ?
+5160593 Ching, Bryce Ka Fu tue13-brass ?
+5163026 Nassar, Alexander Robert tue13-brass ?
+5015416 Pai, Siddharth Ekanath tue13-brass ?
+5161012 Waje, Krish tue13-brass ?
+5083631 Zhao, Zining tue13-brass ?
+5162399 Zhu, Alex Tian Hao tue13-brass ?
+5014551 Chen, Shandeng tue17-brass ?
+5123679 Li, Yuze wed15-strings ?L
+17s1 COMP1911 Computing 1A Sun May 21 21:08:41 2017 Page 1
+---------------------------------------------------------------------
+StudentID tut_lab
+ Name lab04
+---------------------------------------------------------------------
+5114735 Au, Yuet Long fri09-brass ?
+5165160 Bashkirov, Stepan fri09-brass ?
+5165182 Dam, Jason Quang Anh Khoa fri09-brass ?
+5112664 Ho, Thomas Chi-Chung fri09-brass ?
+5133671 Khairul Salleh, Ahmad Imran fri09-brass ?
+5165189 Li, Kevin fri09-brass ?
+5164406 Nguyen, Joseph Huy Thien fri09-brass ?L
+5163520 Von Thrum, Eliza Phoebe fri09-brass ?
+5164034 Wahid, Abdul fri09-brass ?
+5042545 Xia, Yujun fri09-brass ?
+5115105 Xu, Kevin fri09-brass ?
+5098202 Bai, Xueshi fri09-strings ?
+5163365 Baker, Liam Conor fri09-strings ?
+5076725 Chen, Andrew fri09-strings ?L
+5092329 Ching, Jan Yu fri09-strings ?
+5162111 Dang, Daniel Ngoc fri09-strings ?
+5058964 Guo, Xucheng fri09-strings ?
+5162870 Ienco, Dylan Robert fri09-strings ?L
+5163150 Ijaz, Muhammad Sohaib fri09-strings ?L
+5161434 Jenkins, Cameron Blake fri09-strings ?L
+5163332 Jumeau, Brendan Gerard fri09-strings ? 
+3466382 Lee, Alexander Tuk-Sun fri09-strings ?
+5166084 Li, Jessica Phe fri09-strings ?L
+5141490 Mak, Yi Pui fri09-strings ?
+5165373 Mallison, Christopher John fri09-strings ?
+5164557 Patel, Aashini Divyang fri09-strings ?
+5162258 Ren, Jonathan fri09-strings ?L
+5160388 Rockoff, Jordan Taylor fri09-strings ?
+5117431 Rocks, Dominic Charles Ignatius fri09-strings ?
+5164569 Synge, Steffany De Waal fri09-strings ?
+3479592 Tan, Bee Tat Nicholas fri09-strings ?
+3474179 Tohid, Muhammad Zahran Bin fri09-strings ?
+5161308 Zhao, Owen fri09-strings ?
+5164910 Ashok Kumar, Raghav fri12-strings ?L
+5091166 Urbina, Enrico fri12-strings ?L
+3378257 Fijac, Sebastien Pascal Baylis mon15-brass ?L
+5061090 Lunardo, Calandra mon15-brass ?L
+5164305 Chung, Jacky thu09-brass ?
+5162085 La, Minh thu09-brass ?
+5125763 Li, Yuecen thu09-brass ?
+5158804 Moelgaard, Frederik Thielke thu09-brass ?
+5136237 Mok, Ho Kwan thu09-brass ?
+5153792 Fallenius, Vincent Johan thu09-strings ?
+5163689 Konstantinidis, Dimitri Jim thu09-strings ?
+3420973 Le, Anthony Minh Tuan thu09-strings ?L
+5164684 Matti, Jason thu09-strings ?
+5160660 Romana, Lance Christian Cabral thu09-strings ?
+5150377 Yoon, Yerin thu09-strings ?
+5111395 Yu, Chaohao thu09-strings ?
+5083828 Zhang, Xiankai thu09-strings ?
+5016191 Huang, Junda thu17-brass ?
+7207123 Cawte, Henry James tue09-strings ?
+5014850 Cho, Junhee tue09-strings ?
+5057349 Liu, Yanbo tue09-strings ?
+5098246 Alfiandy, Steven tue13-brass ?
+5113943 Chen, Linda tue13-brass ?
+5160593 Ching, Bryce Ka Fu tue13-brass ?
+5112736 Coleman, Blake Ross tue13-brass ?
+5114146 El-Omari, Jamal tue13-brass ?
+5115983 Evans, Annabelle Jane tue13-brass ?
+5146610 Gabor, James Cohen tue13-brass ?
+5092164 He, Peng tue13-brass ?
+5115918 King, Leonard Cameron tue13-brass ?
+5163026 Nassar, Alexander Robert tue13-brass ?
+5114918 Nguyen, Alexander Thanh-Minh tue13-brass ?
+5004374 Sachs, William Keith tue13-brass ?
+5163934 Sieber, Amanda Melissa tue13-brass ?
+5092023 Song, Zeming tue13-brass ?
+5092266 Tong, Runzhe tue13-brass ?
+5117572 Truong, Alan Si tue13-brass ?
+5111487 Wang, Tiannuo tue13-brass ?
+5091950 Wang, Xihao tue13-brass ?
+5092105 Wang, Ziyao tue13-brass ?
+5116128 Woolnough, Daniel James tue13-brass ?
+5110385 Xiao, Heyi tue13-brass ?
+5117249 Xue, John King tue13-brass ?
+5114133 Yin, Wilson tue13-brass ?
+5116065 Yu, Timothy Eafan tue13-brass ?
+5083631 Zhao, Zining tue13-brass ? 
+5162399 Zhu, Alex Tian Hao tue13-brass ?
+5014551 Chen, Shandeng tue17-brass ?
+17s1 COMP1911 Computing 1A Sun May 21 21:09:01 2017 Page 1
+---------------------------------------------------------------------
+StudentID tut_lab
+ Name lab05
+---------------------------------------------------------------------
+5165215 Ahamed Jiffry, Akhlaaq fri09-brass ?
+5114735 Au, Yuet Long fri09-brass ?
+3446216 Bai, Changjie fri09-brass ?
+5165160 Bashkirov, Stepan fri09-brass ?
+5164778 Chandra, Deborah fri09-brass ?
+5160982 Cordovado, James Patrick fri09-brass ?
+5165182 Dam, Jason Quang Anh Khoa fri09-brass ?
+5042533 Guan, Weicheng fri09-brass ?
+5092318 He, Guodong fri09-brass ?
+5112664 Ho, Thomas Chi-Chung fri09-brass ?
+5133671 Khairul Salleh, Ahmad Imran fri09-brass ?
+5165189 Li, Kevin fri09-brass ?
+5149688 Lim, Hans Matthew fri09-brass ?
+5138551 Liu, Zimeng fri09-brass ?
+5115920 Motwani, Romy fri09-brass ?
+5164406 Nguyen, Joseph Huy Thien fri09-brass ?
+5098061 Ruan, Xiao fri09-brass ?
+5160068 Su, Kelvin Vi Thien Khoi fri09-brass ?
+5163520 Von Thrum, Eliza Phoebe fri09-brass ?
+5164034 Wahid, Abdul fri09-brass ?
+5092157 Wang, Zhiyang fri09-brass ?
+5163023 Watt, Sean Douglas fri09-brass ?
+5161372 Woods, Alysja Rose fri09-brass ?
+5042545 Xia, Yujun fri09-brass ?
+5107135 Yang, Hetian fri09-brass ?
+5098300 Yang, Xinhong fri09-brass ?
+5075105 Yu, Eric fri09-brass ?
+5098304 Zhang, Zhihao fri09-brass ?
+5092262 Zhu, Ke fri09-brass ?
+5098202 Bai, Xueshi fri09-strings ?
+5163365 Baker, Liam Conor fri09-strings ?
+5076725 Chen, Andrew fri09-strings ?
+5162111 Dang, Daniel Ngoc fri09-strings ?
+5058964 Guo, Xucheng fri09-strings ?
+5163150 Ijaz, Muhammad Sohaib fri09-strings ?L
+5161434 Jenkins, Cameron Blake fri09-strings ?L
+5163332 Jumeau, Brendan Gerard fri09-strings ?
+5166098 Ko, Wilson Chi Kin fri09-strings ?L
+3466382 Lee, Alexander Tuk-Sun fri09-strings ?
+5166084 Li, Jessica Phe fri09-strings ?L
+5165373 Mallison, Christopher John fri09-strings ?
+5164557 Patel, Aashini Divyang fri09-strings ?
+5160388 Rockoff, Jordan Taylor fri09-strings ?
+5117431 Rocks, Dominic Charles Ignatius fri09-strings ?
+5164569 Synge, Steffany De Waal fri09-strings ?
+3479592 Tan, Bee Tat Nicholas fri09-strings ?
+3474179 Tohid, Muhammad Zahran Bin fri09-strings ?
+5161308 Zhao, Owen fri09-strings ? 
+5164910 Ashok Kumar, Raghav fri12-strings ?L
+5161360 Lu, James fri12-strings ?
+5130748 She, Guangnan fri12-strings ?
+5061090 Lunardo, Calandra mon15-brass ?
+5118087 Cheu, Myint Myat Thar thu09-brass ?L
+5136237 Mok, Ho Kwan thu09-brass ?
+5017982 Abood, Jonathan Anthony thu09-strings ?
+5162643 Ali, Aadil thu09-strings ?
+5092233 Chen, Zhuo thu09-strings ?L
+3479856 Chopra, Amit thu09-strings ?
+5115100 Davidson, William George thu09-strings ?
+5153792 Fallenius, Vincent Johan thu09-strings ?
+5014949 Flannery, William Ronald thu09-strings ?
+5163689 Konstantinidis, Dimitri Jim thu09-strings ?
+5113847 Lavercombe, Jack Kenneth Carden thu09-strings ?
+3420973 Le, Anthony Minh Tuan thu09-strings ?
+5116131 Love, Carolyn Alexandra thu09-strings ?
+3484338 Lu, Isabella thu09-strings ?
+5164684 Matti, Jason thu09-strings ?
+5037443 Nham, Quynh Duong Truc thu09-strings ?
+5012826 Patel, Parth Jagdishchandra thu09-strings ?
+5160660 Romana, Lance Christian Cabral thu09-strings ?
+5132908 Ruiz Pena, Miriam thu09-strings ?
+5103002 Wang, Sipu thu09-strings ?
+5125639 Yan, Yuxiang thu09-strings ?L
+5150377 Yoon, Yerin thu09-strings ?
+5111395 Yu, Chaohao thu09-strings ?
+5083828 Zhang, Xiankai thu09-strings ?
+5119637 Zhang, Xin thu09-strings ?
+5119651 Zhang, Yanning thu09-strings ?
+5162189 Tess, David Arthur thu17-brass ?
+7207123 Cawte, Henry James tue09-strings ?L
+5083805 Dai, Wenhao tue09-strings ?
+5098246 Alfiandy, Steven tue13-brass ?
+5113943 Chen, Linda tue13-brass ?
+5160593 Ching, Bryce Ka Fu tue13-brass ?L
+5112736 Coleman, Blake Ross tue13-brass ?
+5114146 El-Omari, Jamal tue13-brass ?
+5115983 Evans, Annabelle Jane tue13-brass ?
+5146610 Gabor, James Cohen tue13-brass ?
+5092164 He, Peng tue13-brass ?
+5115918 King, Leonard Cameron tue13-brass ?
+5163026 Nassar, Alexander Robert tue13-brass ?
+5114918 Nguyen, Alexander Thanh-Minh tue13-brass ?
+5004374 Sachs, William Keith tue13-brass ?
+5163934 Sieber, Amanda Melissa tue13-brass ?
+5092023 Song, Zeming tue13-brass ?
+5092266 Tong, Runzhe tue13-brass ?
+5117572 Truong, Alan Si tue13-brass ?
+5161012 Waje, Krish tue13-brass ?
+5111487 Wang, Tiannuo tue13-brass ?
+5091950 Wang, Xihao tue13-brass ?
+5092105 Wang, Ziyao tue13-brass ?
+5116128 Woolnough, Daniel James tue13-brass ?
+5110385 Xiao, Heyi tue13-brass ?
+5117249 Xue, John King tue13-brass ?
+5114133 Yin, Wilson tue13-brass ?
+5116065 Yu, Timothy Eafan tue13-brass ? 
+5111402 Zhang, Yuchen tue13-brass ?
+5083631 Zhao, Zining tue13-brass ?
+5162399 Zhu, Alex Tian Hao tue13-brass ?
+5029463 Zhang, Jinming tue13-strings ?
+5014551 Chen, Shandeng tue17-brass ?
+5160605 Gultekin, James Umur tue17-brass ?
+5161708 Rozenberg, Fredrik Gabriel Edward tue17-brass ?
+5138900 Yu, Xi tue17-brass ?L
+17s1 COMP1911 Computing 1A Sun May 21 21:09:27 2017 Page 1
+---------------------------------------------------------------------
+StudentID tut_lab
+ Name lab06
+---------------------------------------------------------------------
+5165215 Ahamed Jiffry, Akhlaaq fri09-brass ?
+5114735 Au, Yuet Long fri09-brass ?
+3446216 Bai, Changjie fri09-brass ?
+5165160 Bashkirov, Stepan fri09-brass ?
+5164778 Chandra, Deborah fri09-brass ?
+5160982 Cordovado, James Patrick fri09-brass ?
+5165182 Dam, Jason Quang Anh Khoa fri09-brass ?
+5042533 Guan, Weicheng fri09-brass ?
+5092318 He, Guodong fri09-brass ?
+5112664 Ho, Thomas Chi-Chung fri09-brass ?
+5133671 Khairul Salleh, Ahmad Imran fri09-brass ?
+5165189 Li, Kevin fri09-brass ?
+5149688 Lim, Hans Matthew fri09-brass ?
+5138551 Liu, Zimeng fri09-brass ?
+5115920 Motwani, Romy fri09-brass ?
+5164406 Nguyen, Joseph Huy Thien fri09-brass ?
+5160068 Su, Kelvin Vi Thien Khoi fri09-brass ?
+5163520 Von Thrum, Eliza Phoebe fri09-brass ?
+5164034 Wahid, Abdul fri09-brass ?
+5092157 Wang, Zhiyang fri09-brass ?
+5163023 Watt, Sean Douglas fri09-brass ?
+5161372 Woods, Alysja Rose fri09-brass ?
+5042545 Xia, Yujun fri09-brass ?
+5107135 Yang, Hetian fri09-brass ?
+5098300 Yang, Xinhong fri09-brass ?
+5075105 Yu, Eric fri09-brass ?
+5098304 Zhang, Zhihao fri09-brass ?L
+5092262 Zhu, Ke fri09-brass ?
+5098202 Bai, Xueshi fri09-strings ?
+5163365 Baker, Liam Conor fri09-strings ?
+5092329 Ching, Jan Yu fri09-strings ?
+5162111 Dang, Daniel Ngoc fri09-strings ?
+5058964 Guo, Xucheng fri09-strings ?
+5163150 Ijaz, Muhammad Sohaib fri09-strings ?L
+5161434 Jenkins, Cameron Blake fri09-strings ?
+5163332 Jumeau, Brendan Gerard fri09-strings ?
+3466382 Lee, Alexander Tuk-Sun fri09-strings ?
+5166084 Li, Jessica Phe fri09-strings ?L
+5165373 Mallison, Christopher John fri09-strings ?
+5168026 Matthew, Daniel Alan fri09-strings ?L
+5164557 Patel, Aashini Divyang fri09-strings ?
+5117431 Rocks, Dominic Charles Ignatius fri09-strings ? 
+5164569 Synge, Steffany De Waal fri09-strings ?
+3479592 Tan, Bee Tat Nicholas fri09-strings ?
+3474179 Tohid, Muhammad Zahran Bin fri09-strings ?
+5161308 Zhao, Owen fri09-strings ?
+5164910 Ashok Kumar, Raghav fri12-strings ?L
+5160166 Choi, Urim fri12-strings ?
+5165158 Edwards, Jake Allan fri12-strings ?
+5161360 Lu, James fri12-strings ?
+5061090 Lunardo, Calandra mon15-brass ?L
+5120232 Whitehouse, Nicholas Edwin mon15-brass ?
+5118087 Cheu, Myint Myat Thar thu09-brass ?
+5138085 Cheung, Chin Pok thu09-brass ?
+5112910 Conn, Lachlan Robert thu09-brass ?
+5162085 La, Minh thu09-brass ?
+5055698 Lin, Huiyang thu09-brass ?
+5136237 Mok, Ho Kwan thu09-brass ?
+5017982 Abood, Jonathan Anthony thu09-strings ?
+5162643 Ali, Aadil thu09-strings ?
+5160381 Biscan, Jacob Oliver thu09-strings ?
+5092233 Chen, Zhuo thu09-strings ?
+3479856 Chopra, Amit thu09-strings ?
+5115100 Davidson, William George thu09-strings ?
+5153792 Fallenius, Vincent Johan thu09-strings ?
+5014949 Flannery, William Ronald thu09-strings ?
+5163689 Konstantinidis, Dimitri Jim thu09-strings ?
+5116131 Love, Carolyn Alexandra thu09-strings ?
+3484338 Lu, Isabella thu09-strings ?
+5164684 Matti, Jason thu09-strings ?
+5037443 Nham, Quynh Duong Truc thu09-strings ?
+5012826 Patel, Parth Jagdishchandra thu09-strings ?
+5160660 Romana, Lance Christian Cabral thu09-strings ?
+5132908 Ruiz Pena, Miriam thu09-strings ?
+5103002 Wang, Sipu thu09-strings ?
+5075736 Warner, Sophie Margaret Elizabeth thu09-strings ?
+5125639 Yan, Yuxiang thu09-strings ?
+5150377 Yoon, Yerin thu09-strings ?
+5111395 Yu, Chaohao thu09-strings ?
+5083828 Zhang, Xiankai thu09-strings ?
+5119637 Zhang, Xin thu09-strings ?
+5119651 Zhang, Yanning thu09-strings ?
+5161480 Chiu, Phoebe thu17-brass ?
+5164997 Ferreira, Benjamin Samuel Faustino thu17-brass ?
+5160983 Ferreira, Sebastien Jacob Faustino thu17-brass ?
+5161310 Kha, Harry Sheen thu17-brass ?
+5162360 Mak, Alfred Edmund thu17-brass ?
+5162189 Tess, David Arthur thu17-brass ?
+5160125 Tran, Winston thu17-brass ?
+7207123 Cawte, Henry James tue09-strings ?
+5141222 Wang, Tianqi tue09-strings ?
+5098246 Alfiandy, Steven tue13-brass ?
+5079346 Chan, Jonathan Will Sun-Ee tue13-brass ?
+5113943 Chen, Linda tue13-brass ?
+5160593 Ching, Bryce Ka Fu tue13-brass ?
+5112736 Coleman, Blake Ross tue13-brass ?
+5114146 El-Omari, Jamal tue13-brass ?
+5115983 Evans, Annabelle Jane tue13-brass ?
+5146610 Gabor, James Cohen tue13-brass ?
+5092164 He, Peng tue13-brass ? 
+5115918 King, Leonard Cameron tue13-brass ?
+5163026 Nassar, Alexander Robert tue13-brass ?
+5114918 Nguyen, Alexander Thanh-Minh tue13-brass ?
+5015416 Pai, Siddharth Ekanath tue13-brass ?
+5004374 Sachs, William Keith tue13-brass ?
+5163934 Sieber, Amanda Melissa tue13-brass ?
+5092023 Song, Zeming tue13-brass ?L
+5092266 Tong, Runzhe tue13-brass ?
+5117572 Truong, Alan Si tue13-brass ?
+5161012 Waje, Krish tue13-brass ?
+5111487 Wang, Tiannuo tue13-brass ?
+5091950 Wang, Xihao tue13-brass ?
+5092105 Wang, Ziyao tue13-brass ?
+5116128 Woolnough, Daniel James tue13-brass ?L
+5110385 Xiao, Heyi tue13-brass ?
+5117249 Xue, John King tue13-brass ?
+5114133 Yin, Wilson tue13-brass ?
+5116065 Yu, Timothy Eafan tue13-brass ?
+5111402 Zhang, Yuchen tue13-brass ?
+5083631 Zhao, Zining tue13-brass ?
+5162399 Zhu, Alex Tian Hao tue13-brass ?
+5162452 Davis, Phillip Wong tue13-strings ?L
+5014551 Chen, Shandeng tue17-brass ?
+5160605 Gultekin, James Umur tue17-brass ?
+5160658 Lancaster, Thomas Michael tue17-brass ?
+5161708 Rozenberg, Fredrik Gabriel Edward tue17-brass ?
+5115104 Suen, Wai Bun Nathan tue17-brass ?
+5051410 Wardrop, Jamie Christopher tue17-brass ?
+5138900 Yu, Xi tue17-brass ?L
+5160058 George, Catherine Maria wed15-strings ?
+5162713 Heaton, Alastar Gordon wed15-strings ?
+17s1 COMP1911 Computing 1A Sun May 21 21:09:47 2017 Page 1
+---------------------------------------------------------------------
+StudentID tut_lab
+ Name lab07
+---------------------------------------------------------------------
+5165215 Ahamed Jiffry, Akhlaaq fri09-brass ?
+5114735 Au, Yuet Long fri09-brass ?L
+3446216 Bai, Changjie fri09-brass ?
+5165160 Bashkirov, Stepan fri09-brass ?
+5164778 Chandra, Deborah fri09-brass ?
+5160982 Cordovado, James Patrick fri09-brass ?
+5165182 Dam, Jason Quang Anh Khoa fri09-brass ?
+5092318 He, Guodong fri09-brass ?
+5112664 Ho, Thomas Chi-Chung fri09-brass ?
+5133671 Khairul Salleh, Ahmad Imran fri09-brass ?L
+5165189 Li, Kevin fri09-brass ?
+5157644 Liaw, Yvonne Yee Vonn fri09-brass ?L
+5149688 Lim, Hans Matthew fri09-brass ?
+5138551 Liu, Zimeng fri09-brass ?
+5115920 Motwani, Romy fri09-brass ?
+5164406 Nguyen, Joseph Huy Thien fri09-brass ?
+5098061 Ruan, Xiao fri09-brass ?
+5160068 Su, Kelvin Vi Thien Khoi fri09-brass ? 
+5163520 Von Thrum, Eliza Phoebe fri09-brass ?
+5164034 Wahid, Abdul fri09-brass ?
+5092157 Wang, Zhiyang fri09-brass ?
+5163023 Watt, Sean Douglas fri09-brass ?
+5161372 Woods, Alysja Rose fri09-brass ?
+5042545 Xia, Yujun fri09-brass ?
+5107135 Yang, Hetian fri09-brass ?
+5075105 Yu, Eric fri09-brass ?
+5092262 Zhu, Ke fri09-brass ?
+5163365 Baker, Liam Conor fri09-strings ?
+5076725 Chen, Andrew fri09-strings ?
+5162111 Dang, Daniel Ngoc fri09-strings ?
+5058964 Guo, Xucheng fri09-strings ?L
+5163150 Ijaz, Muhammad Sohaib fri09-strings ?L
+3466382 Lee, Alexander Tuk-Sun fri09-strings ?
+5166084 Li, Jessica Phe fri09-strings ?
+5164557 Patel, Aashini Divyang fri09-strings ?
+5164569 Synge, Steffany De Waal fri09-strings ?
+3479592 Tan, Bee Tat Nicholas fri09-strings ?
+3474179 Tohid, Muhammad Zahran Bin fri09-strings ?
+5161308 Zhao, Owen fri09-strings ?
+5108392 Bu, Yameng fri12-strings ?
+5161360 Lu, James fri12-strings ?
+5061090 Lunardo, Calandra mon15-brass ?
+5120232 Whitehouse, Nicholas Edwin mon15-brass ?
+5118087 Cheu, Myint Myat Thar thu09-brass ?
+5164305 Chung, Jacky thu09-brass ?
+5098297 Kesumo, Vincent thu09-brass ?
+5162085 La, Minh thu09-brass ?
+5162299 Lay, Steven thu09-brass ?
+5158804 Moelgaard, Frederik Thielke thu09-brass ?
+5136237 Mok, Ho Kwan thu09-brass ?
+5157166 Tran, Tommy Thong Van thu09-brass ?
+5017982 Abood, Jonathan Anthony thu09-strings ?
+5162643 Ali, Aadil thu09-strings ?
+5160381 Biscan, Jacob Oliver thu09-strings ?
+3479856 Chopra, Amit thu09-strings ?
+5115100 Davidson, William George thu09-strings ?
+5153792 Fallenius, Vincent Johan thu09-strings ?
+5014949 Flannery, William Ronald thu09-strings ?
+5163689 Konstantinidis, Dimitri Jim thu09-strings ?
+5116131 Love, Carolyn Alexandra thu09-strings ?
+3484338 Lu, Isabella thu09-strings ?
+5164684 Matti, Jason thu09-strings ?
+5037443 Nham, Quynh Duong Truc thu09-strings ?
+5012826 Patel, Parth Jagdishchandra thu09-strings ?
+5160660 Romana, Lance Christian Cabral thu09-strings ?
+5132908 Ruiz Pena, Miriam thu09-strings ?L
+5103002 Wang, Sipu thu09-strings ?
+5150377 Yoon, Yerin thu09-strings ?
+5111395 Yu, Chaohao thu09-strings ?
+5119637 Zhang, Xin thu09-strings ?L
+5119651 Zhang, Yanning thu09-strings ?
+5165272 Baz-Jeffrey, Tennessee Gregory thu17-brass ?
+5162432 Chee, Andrew Jian Wei thu17-brass ?
+5161480 Chiu, Phoebe thu17-brass ?
+5164997 Ferreira, Benjamin Samuel Faustino thu17-brass ?
+5160983 Ferreira, Sebastien Jacob Faustino thu17-brass ?L 
+5160984 Hakeem, Justin Joseph thu17-brass ?
+5164038 Herath, Hasara Chamali thu17-brass ?
+5161310 Kha, Harry Sheen thu17-brass ?
+5125710 Lu, Yonghao thu17-brass ?
+5165001 Minutolo, Vincenzo thu17-brass ?L
+5122972 Qiang, Yuming thu17-brass ?
+5166081 Tan, Sarah thu17-brass ?
+5160125 Tran, Winston thu17-brass ?
+5161415 Vageshwari, Vishaal thu17-brass ?
+5162368 Wang, Andy thu17-brass ?
+5141456 Wang, Jiazhen thu17-brass ?
+5162861 Wijetunga, Shehan Nimesh thu17-brass ?
+7207123 Cawte, Henry James tue09-strings ?
+5141464 Hao, Sijia tue09-strings ?
+5087843 Wang, Qijun tue09-strings ?
+5141222 Wang, Tianqi tue09-strings ?
+5098246 Alfiandy, Steven tue13-brass ?
+5113943 Chen, Linda tue13-brass ?
+5160593 Ching, Bryce Ka Fu tue13-brass ?
+5112736 Coleman, Blake Ross tue13-brass ?
+5114146 El-Omari, Jamal tue13-brass ?
+5115983 Evans, Annabelle Jane tue13-brass ?
+5146610 Gabor, James Cohen tue13-brass ?
+5092164 He, Peng tue13-brass ?
+5115918 King, Leonard Cameron tue13-brass ?
+5163026 Nassar, Alexander Robert tue13-brass ?
+5114918 Nguyen, Alexander Thanh-Minh tue13-brass ?
+5163934 Sieber, Amanda Melissa tue13-brass ?
+5092023 Song, Zeming tue13-brass ?
+5092266 Tong, Runzhe tue13-brass ?
+5117572 Truong, Alan Si tue13-brass ?
+5161012 Waje, Krish tue13-brass ?
+5111487 Wang, Tiannuo tue13-brass ?
+5091950 Wang, Xihao tue13-brass ?
+5092105 Wang, Ziyao tue13-brass ?
+5116128 Woolnough, Daniel James tue13-brass ?
+5110385 Xiao, Heyi tue13-brass ?
+5117249 Xue, John King tue13-brass ?
+5114133 Yin, Wilson tue13-brass ?
+5116065 Yu, Timothy Eafan tue13-brass ?
+5111402 Zhang, Yuchen tue13-brass ?
+5083631 Zhao, Zining tue13-brass ?
+5162399 Zhu, Alex Tian Hao tue13-brass ?
+5162693 Adams, Nicholas James Ronald tue17-brass ?
+3463701 Carling, Joni Lee tue17-brass ?
+5014551 Chen, Shandeng tue17-brass ?
+5062729 Dalton, Daniel Thomas tue17-brass ?
+5162828 Gilmour, Zachary Brock tue17-brass ?
+5162908 Kumar, Sahil tue17-brass ?
+5160658 Lancaster, Thomas Michael tue17-brass ?
+5162871 Latouche, Joseph Dominique tue17-brass ?
+5115943 Lee, Edward Zhiwei tue17-brass ?
+5060325 Mannow, James Forrest tue17-brass ?
+5015498 Maserow, Kali Jade tue17-brass ?
+5160842 Perera, Lakshan Navodh Ramanayakage tue17-brass ?
+5162338 Smart, Rebekah Ruth tue17-brass ?
+5051410 Wardrop, Jamie Christopher tue17-brass ?
+5138900 Yu, Xi tue17-brass ? 
+5097972 Yu, Yue tue17-brass ?L
+5162713 Heaton, Alastar Gordon wed15-strings ?
+5018385 Lo, Andrea Joselyn wed15-strings ?
+5111261 Zhu, Lingzhi wed15-strings ?
+*** End of Report ***
