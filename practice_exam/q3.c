@@ -4,7 +4,7 @@
 #include <ctype.h>
 
 // many people over complicated this by trying to create a new
-// array. all you question asked you to do was print something,
+// array. all the question asked you to do was print something,
 // so just print as you go.
 
 #define MAX_LINE_LEN 512
