@@ -13,7 +13,7 @@
 void doStuffToThisLine(char targetChar, char stringToPrint[MAX_STRING_LEN], char line[MAX_LINE_LEN]) {
     int currIndex = 0;
     while (line[currIndex] != '\0') {
-        //printf("%c", line[currIndex]);        // remember to print things as you go!
+        //printf("%c", line[currIndex]);        // remember to debug/make sure it works as you go!
         
         char thisChar = line[currIndex];
         
