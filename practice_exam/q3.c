@@ -72,6 +72,8 @@ int main(int argc, char * argv[]) {
         while (fgets(line, MAX_LINE_LEN, fileHandle) != NULL) {
             doStuffToThisLine(targetChar, stringToPrint, line);
         }
+        
+        fclose(fileHandle);
     }
 
     return 0;
